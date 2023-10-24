@@ -1,5 +1,5 @@
 # ISaT
-Informational systems and technologies 
+Intellectual systems and technologies 
 
 In first work (3-4), we are making a 2D visualisation of datasets using such algorithms as T-SNE and UMAP.
 
